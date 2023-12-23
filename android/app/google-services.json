@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778909284542",
+    "project_id": "duongvantuan-mobile",
+    "storage_bucket": "duongvantuan-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778909284542:android:8f1d8db7373426d9b006ef",
+        "android_client_info": {
+          "package_name": "com.duongvantuanmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVugP0ls-JiPOvjO17f4_qUyHX_xiEo0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
